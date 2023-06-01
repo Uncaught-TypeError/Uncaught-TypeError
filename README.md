@@ -7,7 +7,7 @@
 - 👯 working to collaborate with other developers
 - 📌 looking to contribute society
 
-🐞 My username is something ain't it? wanna know?
+🐞 A developer too lazy to create responsives LOL.
 
 ### Languages (Front-End)
 
