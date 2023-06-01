@@ -2,8 +2,8 @@
 
 #### 📌A Learner, a Tryhard and a Competitor :)
 
-- 📋 currently working on PHP & Laravel
-- 👨‍💻 presently learning Vue
+- 📋 currently working on PHP & Laravel Projects
+- 👨‍💻 presently learning PHP
 - 👯 working to collaborate with other developers
 - 📌 looking to contribute society
 
@@ -11,11 +11,11 @@
 
 ### Languages (Front-End)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,bootstrap,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 ### Languages (Back-End)
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,cs,cpp,java,mysql,py,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,cs,mysql,py)](https://skillicons.dev)
 
 ### <p align="left">Connect with me</p>
 
