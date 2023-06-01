@@ -15,7 +15,7 @@
 
 ### Languages (Back-End)
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,py,java)](https://skillicons.dev)
 
 ### <p align="left">Connect with me</p>
 
