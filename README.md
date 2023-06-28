@@ -3,7 +3,7 @@
 #### 📌A Learner, a Tryhard and a Competitor :)
 
 - 📋 currently working on PHP & Laravel Projects
-- 👨‍💻 presently learning PHP
+- 👨‍💻 presently learning React
 - 👯 working to collaborate with other developers
 - 📌 looking to contribute society
 
