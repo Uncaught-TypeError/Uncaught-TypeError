@@ -7,7 +7,7 @@
 - 👯 working to collaborate with other developers
 - 📌 looking to contribute society
 
-🐞 A developer too lazy to create responsives LOL.
+🐞 A developer who usually spends time staring red lines.
 
 ### Languages (Front-End)
 
