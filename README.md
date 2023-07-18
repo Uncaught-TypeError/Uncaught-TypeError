@@ -11,7 +11,7 @@
 
 ### Languages (Front-End)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react)](https://skillicons.dev)
 
 ### Languages (Back-End)
 
