@@ -2,8 +2,8 @@
 
 #### 📌A Learner, a Tryhard and a Competitor :)
 
-- 📋 currently working on PHP & Laravel Projects
-- 👨‍💻 presently learning React
+- 📋 currently working on Laravel S.O.L.I.D
+- 👨‍💻 presently attending Google Cyber Security Course
 - 👯 working to collaborate with other developers
 - 📌 looking to contribute society
 
