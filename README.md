@@ -2,18 +2,16 @@
 
 #### 📌A Learner, a Tryhard and a Competitor :)
 
-- 📋 currently working on Laravel S.O.L.I.D
-- 👨‍💻 presently attending Google Cyber Security Course
+- 📋 currently working on Infra
+- 👨‍💻 presently creating database schema for an awesome project
 - 👯 working to collaborate with other developers
 - 📌 looking to contribute society
 
-🐞 A developer who usually spends time staring red lines.
+🐞 A developer who lowkey loves staring red lines.
 
-### Languages (Front-End)
+### Tech Skills (Front-End)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react)](https://skillicons.dev)
-
-### Languages (Back-End)
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,py,java)](https://skillicons.dev)
 
