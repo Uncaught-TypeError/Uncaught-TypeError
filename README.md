@@ -2,7 +2,7 @@
 
 #### 📌A Learner, a Tryhard and a Competitor :)
 
-- 📋 currently working on Infra
+- 📋 currently learning Infra
 - 👨‍💻 presently creating database schema for an awesome project
 - 👯 working to collaborate with other developers
 - 📌 looking to contribute society
@@ -11,7 +11,7 @@
 
 ### Tech Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,php,laravel,mysql,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,php,laravel,mysql,py,java,git)](https://skillicons.dev)
 
 ### <p align="left">Connect with me</p>
 
