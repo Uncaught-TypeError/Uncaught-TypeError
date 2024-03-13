@@ -11,7 +11,11 @@
 
 ### Tech Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,php,laravel,mysql,py,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,php,laravel,mysql,py,java,git,jquery)](https://skillicons.dev)
+
+### Illustration and UI/UX
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,threejs)](https://skillicons.dev)
 
 ### <p align="left">Connect with me</p>
 
