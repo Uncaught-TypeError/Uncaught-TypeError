@@ -41,10 +41,10 @@
   <h1>Check out my top projects</h1>
   <h3>Everyone of them is applied real-life scenerio & business logics</h3>
   <ol>
-    <li>Travel Vista</li>
-    <li>Task Management System</li>
-    <li>Media Website</li>
-    <li>Bookstore App</li>
-    <li>Restaurant App</li>
+    <li>Travel Vista 🏝️</li>
+    <li>Task Management System 🗃️</li>
+    <li>Media Website 🖥️</li>
+    <li>Bookstore App 📚</li>
+    <li>Restaurant App 🍽️</li>
   </ol>
 </div>
