@@ -1,9 +1,7 @@
 ## Halo! It's me, Nick, your friendly neighbourhood webdev! 🕷
 
-#### 📌A Learner, a Tryhard and a Competitor :)
+#### 📌A Senior Software Engineer
 
-- 📋 currently learning Infra
-- 👨‍💻 presently creating database schema for an awesome project
 - 👯 working to collaborate with other developers
 - 📌 looking to contribute society
 
